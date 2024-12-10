@@ -2,8 +2,6 @@
 <body>
 
    <h1>BookShop Comic Manager</h1>
-
-  <p><strong>Version:</strong> 1.0</p>
     <p><strong>Repository:</strong> BookShopComicManager</p>
     <p><strong>Author:</strong> Sifiso Vinjwa</p>
     <h2>Overview</h2>
