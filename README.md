@@ -36,7 +36,7 @@
   <h2>Installation Instructions</h2>
     <p>To run this project, follow the steps below:</p>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-username/BookShopComicManager.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/chisa-sifiso/BookShopComicManager.git</code></li>
         <li>Open the project in your Java IDE (e.g., NetBeans or Eclipse).</li>
         <li>Add the <code>ComicNovel.jar</code> file to the project's libraries.</li>
         <li>Run the <code>BookShop.java</code> class to start the application.</li>
