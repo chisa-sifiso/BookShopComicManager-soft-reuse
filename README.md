@@ -50,6 +50,6 @@
     </ol>
     <h2>License</h2>
     <p>This project is licensed under the <em>MIT License</em>.</p>
-   <h4>Developed by sifiso vinjwa<\h4 >
+   <h4>Developed by sifiso vinjwa</h4 >
 </body>
 </html>
