@@ -3,7 +3,7 @@
 
    <h1>BookShop Comic Manager</h1>
     <p><strong>Repository:</strong> BookShopComicManager</p>
-    <p><strong>Author:</strong> Sifiso Vinjwa</p>
+    <p><strong>Developer/strong> Sifiso Vinjwa</p>
     <h2>Overview</h2>
     <p>
         The <em>BookShop Comic Manager</em> is a simple Java-based application for managing a collection of comic novels, 
